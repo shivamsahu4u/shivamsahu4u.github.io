@@ -33,7 +33,7 @@ export default function Greeting(props) {
                 <Button
                   text="⭐ Hire Me ⭐"
                   newTab={true}
-                  href="http://tiny.cc/Resume-Shivam"
+                  href="/Shivam_.Net_2yr.pdf"
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
