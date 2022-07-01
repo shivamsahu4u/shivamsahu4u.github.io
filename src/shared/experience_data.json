@@ -1,0 +1,53 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Work",
+			"experiences": [
+				{
+					"title": "Associate Professional Software Engineer",
+          "company": "DXC Technology",
+          "company_url": "https://dxc.technology/",
+          "logo_path": "dxc_logo_2021.png",
+          "duration": "Nov 2021 - PRESENT",
+          "location": "Remote",
+          "description": "Working with logging, prioritizing and resolving production incidents reported by users and track them against various SLAs. The projects involve resolving recurring incidents permanently, performing break fixes and implementing preventive action items.",
+          "color": "#9b1578"
+				},
+				{
+					"title": "Associate Professional Software Engineer",
+					"company": "DXC Technology",
+					"company_url": "https://www.linkedin.com/company/dxctechnology/",
+					"logo_path": "dxc_logo.png",
+					"duration": "June 2020 - Nov 2021",
+					"location": "Remote",
+					"description": "Worked in Flex team and implemented functionality enhancements in project. Also Worked on developing and deploying automation scripts on Development servers. I've specialization in C#, .NET, IIS, Javascripts, SQL Server, Oracle DB, Toad for Oracle, Tidal Automation, Linux, WinSCP, puTTY, Azure fundamentals",
+					"color": "#fc1f20"
+				}
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "Data Science Research Intern",
+					"company": "Delhivery Pvt. Ltd.",
+					"company_url": "https://www.delhivery.com/",
+					"logo_path": "delhivery_logo.png",
+					"duration": "May 2019 - Sept 2019",
+					"location": "Gurgaon, Haryana",
+					"description": "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+					"color": "#ee3c26"
+				}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}
