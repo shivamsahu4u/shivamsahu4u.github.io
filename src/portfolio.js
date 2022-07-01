@@ -26,7 +26,7 @@ const greeting = {
   subTitle:
     "Hi, I'm Shivam Sahu. Software Engineer at DXC Technology",
   resumeLink:
-    "https://www.overleaf.com/project/62af6e8023a0072d3f34d519",
+    "https://www.overleaf.com/read/fjtwshwdddwh",
   portfolio_repository: "https://github.com/shivamsahu4u/shivamsahu4u.github.io",
   githubProfile: "https://github.com/shivamsahu4u",
 };
@@ -645,7 +645,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 7415050902",
+    subtitle: "+91 741505****",
   },
 };
 
