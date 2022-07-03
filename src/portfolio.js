@@ -63,7 +63,7 @@ const socialMediaLinks = [
   }, */
   {
     name: "Gmail",
-    link: "mailto:shivamsahu4u@gmail.com",
+    link: "shivamsahu4u@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   }, /*
@@ -74,12 +74,7 @@ const socialMediaLinks = [
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   }, */
   
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/shivamsahu4u/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  }, 
+   
   {
     name: "Instagram",
     link: "https://www.instagram.com/shivamsahu4u/",
