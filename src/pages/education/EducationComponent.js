@@ -33,11 +33,11 @@ class Education extends Component {
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
                   Basic Qualification and Certifcations
                 </h3>
-                <p>X &emsp; Jawahar Navadaya Vidyalaya, Hoshangabad &emsp; CBSE</p>
+                <p>X &emsp; Jawahar Navodaya Vidyalaya, Hoshangabad &emsp; CBSE</p>
                 <p>8.4/10 (CGPA)</p>
                   
 
-                <p>XII &ensp; Jawahar Navadaya Vidyalaya, Hoshangabad &emsp; CBSE</p>
+                <p>XII &ensp; Jawahar Navodaya Vidyalaya, Hoshangabad &emsp; CBSE</p>
                 <p>70.2%</p>
                 {/*<CompetitiveSites logos={competitiveSites.competitiveSites} />*/}
               </div>

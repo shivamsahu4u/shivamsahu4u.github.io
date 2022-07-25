@@ -133,7 +133,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end using Angular",
         "⚡ Revise, update, refactor and debug code",
-        "⚡ Creating application in C# using .NET framework",
+        "⚡ Creating application on .NET framework using C#",
       ],
       softwareSkills: [
         {
@@ -539,7 +539,7 @@ const experience = {
       ],
     },
     /*{
-      title: "Internships",
+      title: "Certification",
       experiences: [
         {
           title: "Data Science Research Intern",
@@ -621,7 +621,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_shivam.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with DS, Algorithms, C#, .NET, IIS, Javascript, MS SQL Server, Oracle DB, Azure fundamentals, Cloud and Development.",
+      "I am available on the following social media. You can message me, I will reply within 24 hours. I can help you with DS, Algorithms, C#, .NET, IIS, Javascript, MS SQL Server, Oracle DB, Azure fundamentals, Cloud and Development.",
     },
 
   blogSection: {
