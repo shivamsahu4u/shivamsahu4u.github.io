@@ -507,7 +507,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-        "I've been trained on .NET full stack development and I've worked with various development as well as support projects with Hewlett Packard Enterprise (HPE). I love connecting with people working on different platform, working on different technology stack.",
+        "I'm trained on .NET full stack development and certified on Azure fundamentals. I've worked with various development as well as support projects with Hewlett Packard Enterprise (HPE). I love connecting with people working on different platform, working on different technology stack.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -521,7 +521,7 @@ const experience = {
           duration: "Nov 2021 - PRESENT",
           location: "Remote",
           description:
-                  "Working with logging, prioritizing and resolving production incidents reported by users and track them against various SLAs. The projects involve resolving recurring incidents permanently, performing break fixes and implementing preventive action items.",
+                  "Working with Flex team and implemented functionality enhancements in project. Also Working on developing and deploying automation scripts on Development servers. I've specialization in C#, .NET, IIS, SQL Server, Oracle DB, JavaScript & Azure fundamentals",
           color: "#0879bf",
         },
         {
@@ -532,7 +532,7 @@ const experience = {
           duration: "June 2020 - Nov 2021",
           location: "Remote",
           description:
-                "Worked in Flex team and implemented functionality enhancements in project. Also Worked on developing and deploying automation scripts on Development servers. I've specialization in C#, .NET, IIS, Javascripts, SQL Server, Oracle DB, Toad for Oracle, Tidal Automation, Linux, WinSCP, puTTY, Azure fundamentals",
+                "Worked on logging, prioritizing and resolving production incidents reported by users and track them against various SLAs. The projects involve resolving recurring incidents permanently, performing break fixes and implementing preventive action items. Worked on various tools like Tidal Automation, HPSM, ServiceNow, Toad for Oracle, WinSCP & puTTY.",
           color: "#9b1578",
         },
       
