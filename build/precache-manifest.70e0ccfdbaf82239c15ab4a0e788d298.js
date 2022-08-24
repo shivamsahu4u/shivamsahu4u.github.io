@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dce93acac8319a2b038e4766b3d145c",
+    "revision": "3cbe75c2c58e7db541cc5a3e5ad4cf8e",
     "url": "/index.html"
   },
   {
-    "revision": "6701d7a3588fad69bcd8",
+    "revision": "92c023af556448ca2f4c",
     "url": "/static/css/main.650454de.chunk.css"
   },
   {
-    "revision": "e382c9e25639dc948041",
-    "url": "/static/js/2.7f47802f.chunk.js"
+    "revision": "4f01e56c19f0308aaec5",
+    "url": "/static/js/2.b75819d3.chunk.js"
   },
   {
-    "revision": "6701d7a3588fad69bcd8",
-    "url": "/static/js/main.912635c9.chunk.js"
+    "revision": "92c023af556448ca2f4c",
+    "url": "/static/js/main.c31f62ae.chunk.js"
   },
   {
     "revision": "6138eaf4a6c67cbf898e",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31eb8673f92576996b855341ab86ef3f",
     "url": "/static/media/animated_shivam.31eb8673.png"
+  },
+  {
+    "revision": "0e7794e1fbee6c5f0135c647a1665b8a",
+    "url": "/static/media/az900.0e7794e1.png"
   },
   {
     "revision": "cf51a9ab1631c95450d338b1872a4249",

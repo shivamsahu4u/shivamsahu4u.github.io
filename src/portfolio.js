@@ -47,12 +47,18 @@ const socialMediaLinks = [
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   
-  
+  {
+    name: "CodePen",
+    link: "https://codepen.io/shivamsahu4u",
+    fontAwesomeIcon: "fa-codepen", // Reference https://fontawesome.com/icons/envelope?s=solid
+    backgroundColor: "#183153", // Reference https://simpleicons.org/?q=codepen
+  }, 
+
   {
     name: "Gmail",
     link: "mailto:shivamsahu4u@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/envelope?s=solid
+    backgroundColor: "#EA4335", // Reference https://simpleicons.org/?q=gmail
   }, 
   
    
@@ -370,21 +376,24 @@ const experience = {
       
       ],
     },
-    /*{
+    {
       title: "Certification",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          title: "Microsoft Certified: Azure Fundamentals",
+          company: "Microsoft",
+          company_url: "https://www.credly.com/badges/562ba500-c5f3-4e8d-9aeb-3b8f9c769234",
+          logo_path: "az900.png",
+          duration: "June 2022",
+          location: "",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-          color: "#ee3c26",
+            "Demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.  ",
+              color: "#181717",
+              gallery: "Show Credential",
+              gallery_url: "https://www.credly.com/badges/562ba500-c5f3-4e8d-9aeb-3b8f9c769234",
+              color: "#ee3c26",
         },
-        {
+        /*{
           title: "Data Science Intern",
           company: "Intel Indexer LLC",
           company_url:
@@ -395,10 +404,10 @@ const experience = {
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#0071C5",
-        },
+        },*/
       ],
     },
-   */ {
+    {
       title: "Volunteerships",
       experiences: [
        /*
@@ -420,9 +429,9 @@ const experience = {
           company_url: "https://github.com/",
           logo_path: "github_logo.png",
           duration: "July 2019 - PRESENT",
-          location: "Work From Home",
+          location: "",
           description:
-            "I am actively contributing to projects. I have contributed to Hacktoberfest2018 and HacktoberFest 2019 sponsered by Digital Ocean and twilio. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "I am actively contributing to projects. I have contributed to Hacktoberfest2018 and HacktoberFest 2019 sponsered by Digital Ocean and twilio. These contributions include bug fixes, feature requests and formulating proper documentation for project.  ",
               color: "#181717",
               gallery: "Gallery",
               gallery_url: "http://tiny.cc/shivam-gallery/",
